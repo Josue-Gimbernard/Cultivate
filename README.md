@@ -28,8 +28,9 @@ For current buildout work, start with:
 - DOCX sources are extracted into `docs/extracted/`.
 - Structured source facts live in `docs/normalized/cultivate_source_digest.md`.
 - Cultivate is currently organized as a homeschool family campus in Central Florida with Spaces and Partnerships as first-class domains.
-- The biggest unresolved decisions are naming, launch scope, compliance, facility, staffing, pricing, and git initialization.
-- Git initialization is deferred until the founder opens/configures git with the new email.
+- The biggest unresolved decisions are naming, launch scope, compliance, facility, staffing, pricing, and owner-approved public launch boundaries.
+- Git is initialized and pushed to `git@github.com:Josue-Gimbernard/Cultivate.git`.
+- Repo and account setup rules live in `memory/11-repo-and-git-operations.md`.
 
 ## Working Rule
 

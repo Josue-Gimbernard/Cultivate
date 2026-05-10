@@ -40,6 +40,11 @@ Initial pushes completed on 2026-05-10:
 
 Both local `main` branches track `origin/main`.
 
+Documentation updates were also pushed on 2026-05-10:
+
+- `M:\Cultivate`: `2a7e400 Document repo operations and GitHub setup`
+- `M:\Cultivate_Web`: `1b9b5ff Document web repo operations and deployment rules`
+
 ## Operating Rules
 
 - Before committing, run relevant tests or document why they were not run.
@@ -52,3 +57,12 @@ Both local `main` branches track `origin/main`.
 - Do not change remotes or SSH identity unless the founder explicitly asks.
 - Keep commits focused and use clear messages.
 
+## Known Local Git Warning
+
+`git status` may print:
+
+```text
+warning: unable to access 'C:\Users\gimbo/.config/git/ignore': Permission denied
+```
+
+This warning is about a global Git ignore path and has not blocked local commits or GitHub pushes. It can be cleaned up later, but do not change global Git configuration without explicit founder approval because miniBIOTA also uses this machine.

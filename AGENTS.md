@@ -20,6 +20,7 @@ Codex is the primary operating interface for this repo. The goal is to avoid thr
 - `docs/extracted/` contains faithful extracted source text.
 - `docs/normalized/` contains structured fact bases derived from source docs.
 - `archive/` is for superseded historical material only.
+- `memory/11-repo-and-git-operations.md` contains the repo split, GitHub remotes, SSH account strategy, and commit/push rules.
 
 ## Startup Sequence
 
@@ -78,8 +79,8 @@ Ask explicit approval before:
 For documentation-only work:
 
 - Read every new or changed doc end to end.
-- Run `git diff --name-only` when this becomes a git repo, or list changed files manually before git exists.
-- Run `git status --short --branch` when this becomes a git repo.
+- Run `git diff --name-only` or summarize changed files clearly.
+- Run `git status --short --branch`.
 - Confirm no live systems, databases, public materials, or external commitments changed.
 
 ## Session Closeout
