@@ -31,6 +31,8 @@ For current buildout work, start with:
 - The biggest unresolved decisions are naming, launch scope, compliance, facility, staffing, pricing, and owner-approved public launch boundaries.
 - Git is initialized and pushed to `git@github.com:Josue-Gimbernard/Cultivate.git`.
 - Repo and account setup rules live in `memory/11-repo-and-git-operations.md`.
+- The website lives separately at `M:\Cultivate_Web` and is pushed to `git@github.com:Josue-Gimbernard/Cultivate_Web.git`.
+- The current website is a private Brooke-facing owner preview with owner review packet, approval matrix, public draft packet, and answer/update workflow. It is not public launch copy.
 
 ## Working Rule
 

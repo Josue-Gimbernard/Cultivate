@@ -15,10 +15,11 @@ last_updated: 2026-05-10
 - Treat `07_Cultivate_Full_Ecosystem_(Updated).docx` as earlier-version provenance.
 - Treat The Summit as the current teen-space name pending founder confirmation, with The Glade preserved as earlier-source provenance.
 - Use limited founding cohort as the current recommended first launch shape, pending founder/owner approval.
+- Use the two-repo split: `M:\Cultivate` for company/source framework and `M:\Cultivate_Web` for the Flask website/private owner preview.
+- Write current owner-preview website copy for Brooke directly, while keeping founder story, pricing, schedules, services, proof, intake, and public claims pending until she approves them.
 
 ## Pending Decisions
 
-- Git initialization is deferred until the founder opens/configures git with the new email.
 - Which operating domains Cultivate needs.
 - Whether to create export tooling similar to miniBIOTA later.
 - Whether live task management should remain markdown-only or connect to a structured system.

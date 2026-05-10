@@ -45,6 +45,13 @@ Documentation updates were also pushed on 2026-05-10:
 - `M:\Cultivate`: `2a7e400 Document repo operations and GitHub setup`
 - `M:\Cultivate_Web`: `1b9b5ff Document web repo operations and deployment rules`
 
+Later 2026-05-10 closeout commits:
+
+- `M:\Cultivate`: `b92c8b8 Refresh company repo documentation`
+- `M:\Cultivate_Web`: `32953df Add owner review packet`
+- `M:\Cultivate_Web`: `756b08b Personalize owner preview copy for Brooke`
+- `M:\Cultivate_Web`: `fcd44f0 Refine Brooke owner preview copy`
+
 ## Operating Rules
 
 - Before committing, run relevant tests or document why they were not run.

@@ -68,4 +68,4 @@ Use `docs/source/README.md` for the current source inventory. Use `docs/extracte
 
 | Domain | Path | Status |
 |---|---|---|
-| Web | `M:\Cultivate_Web` | Initial private-preview scaffold committed and pushed to `Josue-Gimbernard/Cultivate_Web` |
+| Web | `M:\Cultivate_Web` | Brooke-facing private owner preview committed and pushed to `Josue-Gimbernard/Cultivate_Web`; current flow includes owner review packet, public draft packet, approval matrix, and answer/update workflow |
