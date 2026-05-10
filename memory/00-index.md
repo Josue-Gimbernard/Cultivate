@@ -33,6 +33,7 @@ Use memory for stable context. Use skills for repeatable workflows. Use domains 
 | `08-ecosystem-architecture.md` | Current Cultivate ecosystem components and version decisions |
 | `09-offers-and-experiences.md` | Audience, offers, revenue paths, and experience model |
 | `10-open-questions.md` | Open naming, launch, compliance, facility, business model, and partnership questions |
+| `11-repo-and-git-operations.md` | GitHub repo split, remotes, SSH account strategy, and commit/push rules |
 | `inbox.md` | Temporary holding area for open questions and unsorted memory candidates |
 
 ## Current Setup Status
@@ -43,6 +44,7 @@ Use memory for stable context. Use skills for repeatable workflows. Use domains 
 - Source-derived digest exists at `docs/normalized/cultivate_source_digest.md`.
 - Current extraction and architecture plan lives in `docs/CULTIVATE_EXTRACTION_AND_AGENT_ARCHITECTURE_PLAN.md`.
 - Initial Spaces and Partnerships domains exist.
+- Git is initialized, committed, and pushed to GitHub as `Josue-Gimbernard/Cultivate`.
 
 ## Source Docs
 
@@ -66,4 +68,4 @@ Use `docs/source/README.md` for the current source inventory. Use `docs/extracte
 
 | Domain | Path | Status |
 |---|---|---|
-| Web | `M:\Cultivate_Web` | Initial private-preview scaffold created; git deferred |
+| Web | `M:\Cultivate_Web` | Initial private-preview scaffold committed and pushed to `Josue-Gimbernard/Cultivate_Web` |

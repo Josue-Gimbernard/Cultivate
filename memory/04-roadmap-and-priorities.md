@@ -15,7 +15,7 @@ No approved launch roadmap exists yet. The concept architecture is now source-de
 3. Validate compliance-heavy components: Sprout Space, Harvest Cafe, Commons rentals/events, and The Wilds.
 4. Define membership, pricing, contribution discounts, and Community Fund operations.
 5. Build facility and staffing requirement docs.
-6. Decide whether to initialize git.
+6. Continue web preview refinement and owner-review readiness.
 
 ## Current Buildout Roadmap
 
@@ -29,6 +29,15 @@ Active first-launch docs:
 - `domains/product/founding_cohort_launch_plan.md`
 - `domains/product/first_term_program_outline.md`
 - `domains/operations/prelaunch_validation_checklist.md`
+
+## Repo Status
+
+Git is initialized and pushed for both local repos:
+
+- Company repo: `M:\Cultivate` -> `git@github.com:Josue-Gimbernard/Cultivate.git`
+- Web repo: `M:\Cultivate_Web` -> `git@github.com:Josue-Gimbernard/Cultivate_Web.git`
+
+Use `memory/11-repo-and-git-operations.md` before changing remotes, auth, commits, or pushes.
 
 ## Rule
 
