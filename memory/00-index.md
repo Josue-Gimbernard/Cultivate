@@ -69,3 +69,9 @@ Use `docs/source/README.md` for the current source inventory. Use `docs/extracte
 | Domain | Path | Status |
 |---|---|---|
 | Web | `M:\Cultivate_Web` | Brooke-facing private owner preview committed and pushed to `Josue-Gimbernard/Cultivate_Web`; current flow includes owner review packet, public draft packet, approval matrix, and answer/update workflow |
+
+Current live web preview:
+
+`https://web-production-dcfae.up.railway.app/?access=cultivate-preview`
+
+Future website implementation belongs in `M:\Cultivate_Web`. This repo remains the company/source/strategy repo.

@@ -17,6 +17,8 @@ Use this skill when closing a meaningful Cultivate company session.
 7. List changed files.
 8. Confirm no live systems, databases, public materials, or external commitments changed.
 9. Confirm unresolved Brooke/owner questions are still tracked as pending rather than inferred.
+10. If Brooke handoff materials changed in the web repo, record that Brooke does not need repo access and that Claude attachment flow is the expected handoff.
+11. If the Railway link or deploy state changed, mirror only the stable status and link into `domains/web/`; keep implementation details in `M:\Cultivate_Web`.
 
 ## Closeout Format
 

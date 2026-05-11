@@ -7,7 +7,13 @@ domain: web
 
 ## Snapshot
 
-Cultivate Web has a private owner-preview repo at `M:\Cultivate_Web`, structured after miniBIOTA Web but lighter. The active preview is written directly for Brooke and remains gated.
+Cultivate Web has a private owner-preview repo at `M:\Cultivate_Web`, structured after miniBIOTA Web but lighter. The active preview is written directly for Brooke, remains gated, and is now live on Railway.
+
+Live preview:
+
+`https://web-production-dcfae.up.railway.app/?access=cultivate-preview`
+
+Brooke does not need repo access. The current handoff uses `BROOKE_EMAIL_DRAFT.md` and attaches `BROOKE_AI_INTERVIEW_PACKET.md` for Claude.
 
 ## Current Review Routes
 
@@ -61,8 +67,10 @@ Cultivate Web has a private owner-preview repo at `M:\Cultivate_Web`, structured
 
 ## Next
 
-- Railway project setup.
-- Test domain setup.
+- Brooke review of the live private preview.
+- Brooke Claude interview using `BROOKE_AI_INTERVIEW_PACKET.md`.
+- Capture Brooke's Claude summary or direct answers in `M:\Cultivate_Web\memory\08-owner-answer-log.md`.
+- Update approval matrix, assumptions, and public draft pages only after the answer log is updated.
+- Optional later: custom/test domain setup.
 - Owner meeting with Brooke.
-- Capture Brooke's answers in the web answer log before changing public-facing draft copy.
 - Keep childcare, cafe, Foxtail, paid teen work, rentals, pricing, dates, intake, and Wilds availability private/validation-first until approved.

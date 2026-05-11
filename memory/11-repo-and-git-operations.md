@@ -51,6 +51,17 @@ Later 2026-05-10 closeout commits:
 - `M:\Cultivate_Web`: `32953df Add owner review packet`
 - `M:\Cultivate_Web`: `756b08b Personalize owner preview copy for Brooke`
 - `M:\Cultivate_Web`: `fcd44f0 Refine Brooke owner preview copy`
+- `M:\Cultivate_Web`: `09ab2b9 Prepare Railway deployment config`
+- `M:\Cultivate_Web`: `d51d250 Fix preview access gate sizing`
+- `M:\Cultivate_Web`: `90df654 Add Brooke AI interview packet`
+- `M:\Cultivate_Web`: `c89fadf Clarify Brooke Claude handoff`
+- `M:\Cultivate_Web`: `a991b56 Add preview link to Brooke email draft`
+
+Current Railway preview:
+
+`https://web-production-dcfae.up.railway.app/?access=cultivate-preview`
+
+Railway repo selection uses the Railway GitHub App connection, not local SSH keys. If Railway only shows miniBIOTA repos, the GitHub App/session is still pointed at miniBIOTA. Avoid changing miniBIOTA global Git or Railway settings; use repo-local SSH for local pushes and careful GitHub App repo selection or separate browser sessions for Railway.
 
 ## Operating Rules
 
