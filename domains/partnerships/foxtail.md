@@ -2,11 +2,11 @@
 
 ## Status
 
-Concept for discussion only. Not a commitment.
+Concept for discussion only. Not a commitment. Brooke's 2026-05-20 direction keeps Foxtail and any named coffee or food brand partnership private/future-facing.
 
 ## Proposed Fit
 
-Foxtail could bring local coffee credibility and professional coffee quality to The Harvest Cafe while Cultivate provides a values-aligned audience of homeschool families, teens, remote-working parents, Commons visitors, and recurring members.
+Foxtail could eventually bring local coffee credibility and professional coffee quality to The Harvest Cafe while Cultivate provides a values-aligned audience of homeschool families, teens, remote-working parents, Commons visitors, and recurring members.
 
 ## Possible Structure
 
@@ -28,4 +28,4 @@ Foxtail could bring local coffee credibility and professional coffee quality to 
 
 - `docs/extracted/06_Foxtail_Partnership.md`
 - `docs/extracted/05_The_Harvest_Cafe.md`
-
+- `domains/company/brooke_approved_direction_2026-05-20.md`

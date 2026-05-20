@@ -18,8 +18,8 @@ Status: complete for the current source set.
 
 Status: active.
 
-- Confirm the naming decision: The Summit versus The Glade.
-- Define the first viable launch scope.
+- Capture Brooke-approved direction.
+- Translate the approved direction into website and interest-list updates.
 - Write facility requirements.
 - Write staffing assumptions.
 - Write compliance validation map.
@@ -32,6 +32,7 @@ Current outputs:
 - `domains/product/first_term_program_outline.md`
 - `domains/operations/prelaunch_validation_checklist.md`
 - `domains/company/founder_decision_memo_001.md`
+- `domains/company/brooke_approved_direction_2026-05-20.md`
 
 ## Stage 3: External Validation
 
@@ -45,7 +46,7 @@ Status: pending.
 - Validate insurance and facility requirements.
 - Decide whether Foxtail should be approached.
 
-Recommended next gate: founder/owner decision on limited founding cohort versus community pilot versus full campus launch.
+Recommended next gate: website repo update to match Brooke's direction, then interest-list/questionnaire validation.
 
 ## Stage 4: Founder Pack
 

@@ -1,13 +1,13 @@
 ---
 title: Growth Brief
-last_updated: 2026-05-10
+last_updated: 2026-05-20
 domain: growth
 ---
 # Growth Brief
 
 ## Snapshot
 
-Growth strategy is early but source-supported: start with founding families and community proof, then use open houses, Commons rentals, cafe/community energy, and partnerships to expand.
+Growth strategy now starts with Brooke's approved warm, no-commitment interest list for homeschool families, then questionnaire validation before public operating promises.
 
 ## Current Planning File
 
@@ -17,5 +17,6 @@ Growth strategy is early but source-supported: start with founding families and 
 
 - What founding family cohort size is desired?
 - Which homeschool groups, co-ops, and local organizations should be mapped first?
+- When do the three questionnaires go out and through which channels?
 - Should Foxtail be approached before or after facility validation?
-- What should not be promised publicly yet?
+- How will photo/testimonial consent be handled before publishing family proof?

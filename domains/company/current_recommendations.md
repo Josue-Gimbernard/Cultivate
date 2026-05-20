@@ -2,21 +2,22 @@
 
 ## Position
 
-Build Cultivate as a staged ecosystem, not as a day-one full campus.
+Build Cultivate as a staged community space for homeschool families, not as a day-one full campus.
 
-The owner-updated docs are strong because they describe a complete, emotionally coherent world. The operational risk is that the complete world contains several regulated or facility-heavy components. The right next move is to protect the whole vision while identifying the smallest version that can prove demand, culture, and operations.
+Brooke's approved direction from 2026-05-20 confirms the public concept, day-one offer shape, membership direction, private boundaries, and validation needs. The operational risk remains that the complete world contains several regulated or facility-heavy components. The right next move is to protect the whole vision while collecting interest and validating demand, staffing, legal, facility, and compliance assumptions.
 
 ## Recommended Source Hierarchy
 
-1. `docs/extracted/09_Cultivate_Full_Ecosystem_FINAL.md`
-2. `docs/extracted/10_The_Wilds_Outdoor_Campus.md`
-3. Individual space docs in `docs/extracted/`
-4. Earlier ecosystem doc as provenance
+1. `domains/company/brooke_approved_direction_2026-05-20.md`
+2. `docs/extracted/09_Cultivate_Full_Ecosystem_FINAL.md`
+3. `docs/extracted/10_The_Wilds_Outdoor_Campus.md`
+4. Individual space docs in `docs/extracted/`
+5. Earlier ecosystem doc as provenance
 
 ## Recommended First Build Path
 
-1. Confirm naming: The Summit versus The Glade.
-2. Define a first viable launch scope.
+1. Update private website draft direction to match Brooke's approved positioning and boundaries.
+2. Build an interest-list flow, not an enrollment or payment flow.
 3. Validate regulated components before promising them:
    - The Sprout Space
    - The Harvest Cafe
@@ -25,7 +26,7 @@ The owner-updated docs are strong because they describe a complete, emotionally 
    - Commons rentals/events
 4. Draft a facility requirement sheet before searching seriously for space.
 5. Draft membership and pricing hypotheses as internal models only.
-6. Recruit founding families around the vision and discovery process, not fixed promises.
+6. Recruit founding families around the interest list, questionnaires, and discovery process, not fixed prices or operating promises.
 
 ## Recommended Phase Shape
 
@@ -59,3 +60,4 @@ Indoor campus plus The Wilds, Garden Guild, Village Wall, Community Fund, and fu
 - Facility capacity.
 - Commons rental terms.
 - Outdoor equipment/accessibility claims beyond intent.
+- Family quotes, photos of minors, or questionnaire data without signed consent.

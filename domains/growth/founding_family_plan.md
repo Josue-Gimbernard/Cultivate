@@ -6,11 +6,11 @@ Recruit early families around participation, feedback, and culture-building befo
 
 ## Positioning
 
-Cultivate is building a homeschool family campus in Central Florida where kids grow from Sprout Space to Stepping Stones to Summit, parents have a place to belong, and the community practices real skills for real life.
+Cultivate is a community space for homeschool families where everyone belongs. At its heart, it helps teens build real-world skills and self-awareness within the warmth of a whole-family community.
 
 ## Founding Family Promise
 
-Founding families help shape Cultivate.
+Founding families help shape Cultivate through a warm, no-commitment interest list and follow-up questionnaires.
 
 Avoid promising:
 
@@ -21,6 +21,18 @@ Avoid promising:
 - Foxtail partnership
 - facility location
 - all spaces at launch
+- paid teen work or apprenticeships
+- Commons rentals
+- family quotes, photos of minors, or questionnaire data without signed consent
+
+## Interest List Fields
+
+- name
+- email
+- zip code
+- ages of children
+- how they heard about Cultivate
+- what matters most to their family
 
 ## Discovery Questions
 
@@ -43,4 +55,3 @@ Avoid promising:
 - Local therapists/specialists.
 - Coffee/community partners.
 - Existing founder network.
-

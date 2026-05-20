@@ -1,6 +1,6 @@
 ---
 title: Offers And Experiences
-last_updated: 2026-05-10
+last_updated: 2026-05-20
 ---
 # Offers And Experiences
 
@@ -8,29 +8,33 @@ last_updated: 2026-05-10
 
 Cultivate serves homeschool and home-based learning families in Central Florida, with a particular commitment to neurodiverse children, teens, and families.
 
-## Core Offers
+## Approved Day-One Direction
 
-- Childcare for ages 0-5 through The Sprout Space.
-- Middle-kid programming for ages 6-12 through The Stepping Stones.
-- Teen life-skills and community programming for ages 13-18 through The Summit.
-- Parent co-working through The Grove.
-- Cafe/community gathering through The Harvest Cafe.
-- Rentable/community-use space through The Commons.
-- Outdoor play, retreat, and garden learning through The Wilds.
+- The Summit: teen community space, ages 13-18, and the core of Cultivate.
+- The Grove: parent co-working lounge with self-serve coffee station and comfortable seating.
+- The Village Wall: founding community display.
+- The Stepping Stones: ages 6-12, confirmed only if family demand and qualified staff support it.
+- Simple outdoor space: shaded seating, hammock chairs, and grassy area if available at the chosen location.
 
-## Business Paths Mentioned
+## Future-Facing Or Private Until Validated
 
-- Monthly membership.
-- Day passes for The Grove.
-- Family bundle discount for The Grove.
-- Sprout Space membership add-on.
-- Commons rentals.
-- Harvest Cafe sales and catering.
-- Community Fund donations.
-- Family contribution discounts.
-- Potential Foxtail partnership.
+- The Sprout Space and anything related to childcare or DCF licensing.
+- The Harvest Cafe, food or beverage sales, and cafe licensing.
+- Foxtail or any named coffee/food brand partnership.
+- Paid teen employment or apprenticeships.
+- The Commons and space rentals.
+- Garden Guild until outdoor space is confirmed.
+- Full Wilds outdoor campus beyond a simple aspirational mention.
+
+## Membership Direction
+
+- 5-week term billing cycle.
+- 1-, 2-, or 3-day per week pass options to start.
+- 3-day pass structured as best per-day value.
+- Volunteer contribution discount: weekly 20% off, monthly 10% off, occasional 5% off that month, no contribution at standard rate with no penalty.
+- Optional Community Fund for financial and supply donations.
+- Step Up for Students accepted as soon as provider status is confirmed.
 
 ## Offer Gaps
 
-Pricing, capacity, exact schedules, founding member count, launch sequence, compliance costs, staff model, and facility requirements still need decisions.
-
+Pricing, capacity, exact schedules, founding member count, qualified Stepping Stones staffing, compliance costs, legal/entity structure, staff model, and facility requirements still need decisions.

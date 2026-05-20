@@ -1,8 +1,8 @@
 # Launch Scope
 
-## Recommendation
+## Current Direction
 
-Launch Cultivate in phases. The complete ecosystem should remain the north star, but the first version should avoid requiring every regulated component to be ready on day one.
+Launch Cultivate in phases. Brooke's 2026-05-20 direction approves a day-one concept centered on The Summit, The Grove, The Village Wall, conditional Stepping Stones, and a simple outdoor space. The complete ecosystem remains the north star, but the first public CTA is interest list only and should avoid requiring regulated components to be ready on day one.
 
 ## Full Vision Components
 
@@ -23,16 +23,16 @@ Launch Cultivate in phases. The complete ecosystem should remain the north star,
 
 ### Core
 
-- The Summit teen program.
-- The Stepping Stones middle-kid program.
-- Parent work/lounge area similar to an early Grove.
-- Light Commons-style shared room for workshops and family gatherings.
-- 5-week term rhythm in simple form.
-- Village Wall as low-cost culture artifact.
+- The Summit teen community space, ages 13-18.
+- The Grove parent co-working lounge with self-serve coffee station and comfortable seating.
+- The Village Wall founding community display.
+- The Stepping Stones for ages 6-12 if family demand and qualified staff support it.
+- Simple outdoor space with shaded seating, hammock chairs, and grassy area if the chosen location supports it.
+- 5-week term billing cycle with 1-, 2-, and 3-day pass options.
 
 ### Optional If Compliance Allows
 
-- Simple snack/beverage service without public cafe claims.
+- Self-serve community coffee station inside The Grove, without cafe or food-sales claims.
 - Garden project as education/volunteer activity, not food supply chain.
 - Outdoor movement/play time using a site that already meets safety requirements.
 
@@ -44,6 +44,8 @@ Launch Cultivate in phases. The complete ecosystem should remain the north star,
 - Foxtail branded outpost.
 - Public Commons rentals.
 - Full outdoor play equipment buildout.
+- Specific pricing.
+- Family quotes, photos of minors, or questionnaire data without signed consent.
 
 ## Why This Scope
 
@@ -58,6 +60,8 @@ Choose one of these:
 - Full campus launch.
 
 Current recommendation: limited founding cohort.
+
+Brooke has approved interest-list collection as the immediate public CTA. The named operating shape after interest collection still needs a decision.
 
 ## Current Detailed Plan
 

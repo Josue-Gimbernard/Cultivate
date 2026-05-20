@@ -1,5 +1,7 @@
 # Founder Decision Memo 001: First Launch Shape
 
+Status: partly superseded by Brooke's approved direction on 2026-05-20. Use `domains/company/brooke_approved_direction_2026-05-20.md` as the current owner-approved direction for public positioning, day-one offerings, private boundaries, membership model, and CTA.
+
 ## Decision
 
 Choose the first public operating shape for Cultivate.
@@ -16,7 +18,7 @@ A limited founding cohort lets Cultivate validate demand, culture, programming, 
 
 ## Recommended First Offer
 
-Internal name: Founding Cohort Term.
+Internal planning name: Founding Cohort Term.
 
 Duration: one 5-week term.
 
@@ -68,17 +70,13 @@ Option B: Limited Founding Cohort.
 
 ## Decisions Needed From Founder/Owner
 
-- Approve or reject limited founding cohort as first launch path.
 - Choose public label: founding cohort, pilot, beta term, preview term, or other.
-- Confirm The Summit as current teen-space name.
-- Confirm whether ages 0-5 are excluded from first cohort until childcare validation.
 - Choose target size.
 - Choose rough days/times to test.
-- Confirm what can be said publicly.
+- Confirm whether the interest-list stage becomes a founding cohort, pilot, beta term, preview term, or another format.
 
 ## Follow-Up Docs
 
 - `domains/product/founding_cohort_launch_plan.md`
 - `domains/product/first_term_program_outline.md`
 - `domains/operations/prelaunch_validation_checklist.md`
-

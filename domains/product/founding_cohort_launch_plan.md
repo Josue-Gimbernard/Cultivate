@@ -2,13 +2,13 @@
 
 ## Recommendation
 
-Start with a limited founding cohort, not the full campus.
+Use the interest list as the immediate public CTA, then decide whether the first operating shape should be a limited founding cohort, pilot, beta term, preview term, or another format.
 
-This lets Cultivate test the strongest parts of the vision while avoiding premature commitments around licensed childcare, public cafe operations, paid teen work, large outdoor play infrastructure, and public rentals.
+If the next step becomes a limited founding cohort, it should test the strongest parts of the vision while avoiding premature commitments around licensed childcare, public cafe operations, paid teen work, large outdoor play infrastructure, public rentals, and specific pricing.
 
 ## Plain-Language Version
 
-Invite a small group of homeschool families to help build and test Cultivate's first rhythm. The first version should prove:
+Invite homeschool families to join the interest list and help shape Cultivate's first rhythm. The first operating version should prove:
 
 - families want this community
 - teens and middle kids respond to the programming
@@ -18,7 +18,7 @@ Invite a small group of homeschool families to help build and test Cultivate's f
 
 It should not try to prove every future revenue stream at once.
 
-## Recommended First Cohort Shape
+## Recommended First Operating Shape
 
 ### Audience
 
@@ -32,7 +32,7 @@ Families with younger children can be included in discovery, but do not promise 
 
 ### Size
 
-Start with a deliberately small cohort.
+Start with a deliberately small operating group after interest-list validation.
 
 Working hypothesis:
 
@@ -41,7 +41,7 @@ Working hypothesis:
 - 6-12 middle kids
 - parent participation encouraged but not required
 
-This is not an approved capacity. It is a planning target for discussion.
+This is not an approved capacity. It is a planning target for discussion after interest-list response and facility constraints are known.
 
 ### Duration
 
@@ -62,9 +62,9 @@ Working options:
 
 Final schedule should be chosen after founding-family discovery.
 
-## Included In First Cohort
+## Included In First Operating Version
 
-### The Summit Lite
+### The Summit
 
 Teen community and life-skills programming.
 
@@ -84,9 +84,9 @@ Avoid promising:
 - licensed vocational training
 - guaranteed academic curriculum outcomes
 
-### The Stepping Stones Lite
+### The Stepping Stones
 
-Middle-kid hands-on project programming.
+Middle-kid hands-on project programming if family demand and qualified staff support it.
 
 Allowed language:
 
@@ -103,7 +103,7 @@ Avoid promising:
 - therapeutic services
 - regulated care
 
-### The Grove Lite
+### The Grove
 
 Parent workspace/community area.
 
@@ -120,7 +120,7 @@ Avoid promising:
 - business-class co-working amenities
 - always-available workspace
 
-### The Commons Lite
+### Shared Workshop Or Gathering Space
 
 Shared room for cohort workshops and gatherings.
 
@@ -148,7 +148,7 @@ Low-risk pieces that make Cultivate feel real:
 - optional contribution board.
 - feedback circles.
 
-## Excluded From First Cohort Unless Validated
+## Excluded Unless Validated
 
 - The Sprout Space childcare.
 - paid teen childcare roles.
@@ -157,8 +157,8 @@ Low-risk pieces that make Cultivate feel real:
 - public Commons rentals.
 - full Wilds outdoor playground.
 - Garden produce going into meals or cafe.
-- formal discounts tied to contribution.
-- Community Fund promises or scholarship claims.
+- specific pricing.
+- scholarship acceptance before Step Up provider status is confirmed.
 
 ## Optional Pilots If Safe
 
@@ -198,10 +198,8 @@ Pause or redesign if:
 
 ## Founder Decisions Needed
 
-- Is limited founding cohort the preferred first launch path?
 - What family count feels right for the first cohort?
 - Which age group is the anchor: teens, middle kids, or both?
 - What days/times should be tested?
 - Should younger-child families be discovery-only until childcare is validated?
-- What language should be used publicly: pilot, founding cohort, beta term, or preview term?
-
+- What language should be used for the first operating offer after interest-list validation: pilot, founding cohort, beta term, preview term, or something else?

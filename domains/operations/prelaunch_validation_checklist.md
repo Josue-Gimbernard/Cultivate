@@ -6,18 +6,20 @@ This checklist defines what must be validated before Cultivate publicly offers o
 
 ## Minimum Validation Before Public Interest Collection
 
-- Confirm owner/founder approval for public-facing concept language.
-- Confirm whether the first offer is called pilot, founding cohort, beta term, preview term, or another name.
-- Confirm what age groups are included.
+- Use Brooke's approved public concept language from `domains/company/brooke_approved_direction_2026-05-20.md`.
+- Keep the CTA as interest list only, with no enrollment or payment promise.
+- Use approved day-one direction: The Summit ages 13-18, The Grove, The Village Wall, conditional Stepping Stones ages 6-12, and a simple outdoor space if available.
 - Confirm that childcare is not promised unless licensing is validated.
 - Confirm that cafe/food service is not promised unless food-service path is validated.
 - Confirm that teen roles are learning/volunteer roles unless employment path is validated.
 - Confirm that no Foxtail partnership language implies commitment.
-- Confirm contact method and data collection process.
+- Confirm interest-list data collection process: name, email, zip code, ages of children, how they heard about Cultivate, and what matters most to the family.
+- Do not publish family quotes, photos of minors, or questionnaire data without signed consent.
 
 ## Minimum Validation Before Taking Money
 
 - Entity/payment path.
+- LLC versus nonprofit determination or interim legal path.
 - Refund policy.
 - Liability waiver reviewed.
 - Insurance path.
@@ -25,6 +27,7 @@ This checklist defines what must be validated before Cultivate publicly offers o
 - Supervision plan.
 - Emergency contact and medical info process.
 - Background screening policy for adults working with minors.
+- Step Up for Students provider approval before accepting scholarship funds.
 - Parent agreement.
 - Photo/media release.
 - Clear statement of what is included and excluded.
@@ -65,4 +68,3 @@ Do not install or advertise playground/adaptive equipment until site, insurance,
 ### Paid Teen Roles
 
 Do not pay teens or describe formal employment pathways until federal/state child labor, insurance, payroll, and role restrictions are validated.
-

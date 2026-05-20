@@ -1,6 +1,6 @@
 ---
 title: Company Overview
-last_updated: 2026-05-10
+last_updated: 2026-05-20
 domain: company
 ---
 # Company Overview
@@ -11,11 +11,10 @@ Company owns Cultivate's operating framework: strategy, governance, durable memo
 
 ## Current State
 
-Initial source extraction and organization are complete for the current DOCX set. Cultivate is organized as a homeschool family campus in Central Florida with indoor spaces, The Wilds outdoor campus, 5-week terms, family contribution options, and a source-derived Spaces/Partnerships domain model.
+Initial source extraction and organization are complete for the current DOCX set. Brooke's 2026-05-20 approved direction now positions Cultivate as a community space for homeschool families where everyone belongs, with The Summit as the core teen space and day-one direction centered on The Summit, The Grove, The Village Wall, conditional Stepping Stones, and a simple outdoor space.
 
 ## Next
 
-- Confirm The Summit versus The Glade naming.
-- Decide first viable launch scope.
+- Update the website repo to match Brooke's approved public direction.
 - Validate compliance, facility, staffing, pricing, and partnership assumptions.
-- Decide whether to initialize git.
+- Keep childcare, cafe/food sales, Foxtail, paid teen work, Commons rentals, full Wilds, Garden Guild, and specific pricing private or future-facing until validated.

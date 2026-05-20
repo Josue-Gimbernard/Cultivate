@@ -1,6 +1,6 @@
 ---
 title: Web Overview
-last_updated: 2026-05-10
+last_updated: 2026-05-20
 domain: web
 ---
 # Web Overview
@@ -15,7 +15,7 @@ Web owns the Cultivate website, private owner preview, UI system, UX lab, Railwa
 
 ## Current State
 
-The Flask/Railway scaffold is built, pushed to `git@github.com:Josue-Gimbernard/Cultivate_Web.git`, and live as a private Railway preview.
+The Flask/Railway scaffold is built, pushed to `git@github.com:Josue-Gimbernard/Cultivate_Web.git`, and live as a private Railway preview. Brooke's 2026-05-20 approved direction is ready to be applied to the web repo.
 
 Current live preview:
 
@@ -45,6 +45,13 @@ Recent web commits:
 - `c89fadf Clarify Brooke Claude handoff`
 - `a991b56 Add preview link to Brooke email draft`
 
-The site remains private/gated and is not public launch copy. Public-facing claims still require Brooke's approval and approval-matrix updates before publication.
+The site remains private/gated and is not public launch copy. Public-facing claims should now follow `domains/company/brooke_approved_direction_2026-05-20.md`, with approval-matrix updates before publication.
 
 Future website edits belong in `M:\Cultivate_Web`, not this company repo. Company strategy, source truth, launch questions, and cross-domain decisions stay in `M:\Cultivate`.
+
+Current web update priorities:
+
+- Reposition Cultivate as a community space for homeschool families where everyone belongs.
+- Make the CTA an interest list only.
+- Publicly include The Summit, The Grove, The Village Wall, conditional Stepping Stones, and simple outdoor-space language.
+- Keep childcare, cafe/food sales, Foxtail, paid teen work/apprenticeships, Commons rentals, specific pricing, family proof without consent, full Wilds, and Garden Guild private or future-facing.

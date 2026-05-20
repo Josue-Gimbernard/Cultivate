@@ -1,6 +1,6 @@
 ---
 title: Cultivate Memory Index
-last_updated: 2026-05-10
+last_updated: 2026-05-20
 ---
 # Cultivate Memory Index
 
@@ -45,6 +45,7 @@ Use memory for stable context. Use skills for repeatable workflows. Use domains 
 - Current extraction and architecture plan lives in `docs/CULTIVATE_EXTRACTION_AND_AGENT_ARCHITECTURE_PLAN.md`.
 - Initial Spaces and Partnerships domains exist.
 - Git is initialized, committed, and pushed to GitHub as `Josue-Gimbernard/Cultivate`.
+- Brooke-approved company/web direction from 2026-05-20 is captured in `domains/company/brooke_approved_direction_2026-05-20.md`.
 
 ## Source Docs
 
@@ -55,6 +56,7 @@ Use `docs/source/README.md` for the current source inventory. Use `docs/extracte
 | File | Use |
 |---|---|
 | `domains/company/current_recommendations.md` | Current build strategy and no-commitment boundaries |
+| `domains/company/brooke_approved_direction_2026-05-20.md` | Current owner-approved direction for positioning, day-one offers, membership, CTA, private boundaries, and validation needs |
 | `domains/company/buildout_roadmap.md` | Staged roadmap from source architecture to operating system |
 | `domains/product/launch_scope.md` | First viable launch scope thinking |
 | `domains/product/membership_and_pricing_model.md` | Internal revenue and membership model hypotheses |

@@ -1,19 +1,29 @@
 ---
 title: Web Brief
-last_updated: 2026-05-10
+last_updated: 2026-05-20
 domain: web
 ---
 # Web Brief
 
 ## Snapshot
 
-Cultivate Web has a private owner-preview repo at `M:\Cultivate_Web`, structured after miniBIOTA Web but lighter. The active preview is written directly for Brooke, remains gated, and is now live on Railway.
+Cultivate Web has a private owner-preview repo at `M:\Cultivate_Web`, structured after miniBIOTA Web but lighter. The active preview remains gated and is live on Railway. Brooke's 2026-05-20 reply now provides approved direction for the next website update.
 
 Live preview:
 
 `https://web-production-dcfae.up.railway.app/?access=cultivate-preview`
 
-Brooke does not need repo access. The current handoff uses `BROOKE_EMAIL_DRAFT.md` and attaches `BROOKE_AI_INTERVIEW_PACKET.md` for Claude.
+Brooke does not need repo access. The current company-side anchor for website changes is `domains/company/brooke_approved_direction_2026-05-20.md`.
+
+## Approved Website Direction
+
+- Position Cultivate as a community space for homeschool families where everyone belongs.
+- Do not position Cultivate as a school, tutoring center, STEAM program, or daycare.
+- First-page feeling: home away from home, excited to come, relieved to be close, independent but together.
+- Public-now spaces: The Summit, The Grove with community coffee station, The Village Wall, The Stepping Stones conditionally, simple outdoor space aspirationally, and The Wilds as future vision only.
+- Future-facing only: The Harvest Cafe, The Sprout Space, The Commons, Foxtail partnership, full Wilds, and Garden Guild.
+- CTA: join the interest list, warm and no commitment.
+- Interest-list fields: name, email, zip code, ages of children, how they heard about Cultivate, and what matters most to their family.
 
 ## Current Review Routes
 
@@ -67,10 +77,8 @@ Brooke does not need repo access. The current handoff uses `BROOKE_EMAIL_DRAFT.m
 
 ## Next
 
-- Brooke review of the live private preview.
-- Brooke Claude interview using `BROOKE_AI_INTERVIEW_PACKET.md`.
-- Capture Brooke's Claude summary or direct answers in `M:\Cultivate_Web\memory\08-owner-answer-log.md`.
-- Update approval matrix, assumptions, and public draft pages only after the answer log is updated.
+- Update `M:\Cultivate_Web` to match Brooke's 2026-05-20 approved direction.
+- Update the web approval matrix, assumptions, public draft pages, and answer log with this direction.
+- Keep the CTA as interest-list only.
 - Optional later: custom/test domain setup.
-- Owner meeting with Brooke.
-- Keep childcare, cafe, Foxtail, paid teen work, rentals, pricing, dates, intake, and Wilds availability private/validation-first until approved.
+- Keep childcare, cafe/food sales, Foxtail, paid teen work/apprenticeships, Commons rentals, specific pricing, dates, family quotes/photos/data, and full Wilds/Garden Guild claims private or validation-first.

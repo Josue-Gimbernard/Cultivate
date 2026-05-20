@@ -2,48 +2,35 @@
 
 ## Status
 
-Internal hypothesis only. No approved prices exist.
+Brooke has approved the direction of the membership model, but no approved prices exist. Specific pricing remains private until location and operational costs are confirmed.
 
-## Source-Derived Revenue Paths
+## Approved Membership Direction
 
-- Monthly membership.
-- Sprout Space childcare add-on.
-- Grove monthly membership.
-- Grove day pass.
-- Commons rentals.
-- Harvest Cafe sales.
-- Harvest Cafe catering for Commons events.
-- Community Fund donations.
-- Family contribution discounts.
-- Possible partner revenue or cost support from Foxtail.
+- 5-week term billing cycle.
+- 1-, 2-, or 3-day per week pass options to start.
+- 3-day pass structured as the best per-day value.
+- Optional Community Fund for financial and supply donations.
+- Step Up for Students accepted as soon as provider status is confirmed.
 
-## Recommended Membership Structure To Model
+## Contribution Discount Direction
 
-### Family Membership
-
-Base household relationship with Cultivate. Could include community access, week-five open days, parent community, and eligibility for child program enrollment.
-
-### Program Add-Ons
-
-- Sprout Space.
-- Stepping Stones.
-- Summit.
-- Grove.
-- Garden Guild.
-
-### Usage Products
-
-- Grove day pass.
-- Commons rental blocks.
-- Workshops/classes.
-- Cafe purchases.
-
-## Contribution Discount Model From Source
-
-- Weekly contribution: 25% off monthly membership.
-- Monthly contribution: 10% off monthly membership.
-- Occasional contribution: 5% off for the month the contribution occurs.
+- Weekly contribution: 20% off.
+- Monthly contribution: 10% off.
+- Occasional contribution: 5% off that month.
 - No contribution: standard rate, no penalty.
+
+## Public Pricing Copy
+
+Cultivate uses a flexible term-based membership model. Families choose how many days per week work for them. Founding family pricing will be announced once a location is confirmed. Cultivate plans to accept Step Up for Students scholarship funds. Families who contribute their time to the community receive a membership discount.
+
+## Private Or Future-Facing Revenue Paths
+
+- Sprout Space childcare add-on.
+- Commons rental blocks.
+- Harvest Cafe sales.
+- Harvest Cafe catering.
+- Foxtail or other named partner revenue/cost support.
+- Paid teen work or apprenticeship structures.
 
 ## Operational Questions
 
@@ -53,6 +40,8 @@ Base household relationship with Cultivate. Could include community access, week
 - How are discounts tracked?
 - Can financial donation count as contribution, or only time/supplies?
 - How does the Community Fund interact with scholarships or subsidized memberships?
+- What does Step Up for Students provider approval require?
+- Once a space is identified, what is the break-even membership number?
 
 ## Pricing Work Needed
 
@@ -67,4 +56,3 @@ Before choosing prices, model:
 - Scholarship/subsidy assumptions.
 - Target family count.
 - Capacity by space and staff ratio.
-
